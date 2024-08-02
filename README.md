@@ -1,4 +1,5 @@
 # SBA-307-and-308-Html-and-JavaScript
+
 HTML
 ● Have at least 3 pages, keep the grid system consistent as much as possible
 ● Use at least 10 different HTML tags
@@ -8,6 +9,7 @@ HTML
 ● Use web fonts
 ● Use different types of content in the form of text, images, videos, and GIFs
 ● Use regex validation
+
 CSS
 ● Inline, internal, and external styling
 ● Use five different CSS selectors
@@ -16,7 +18,8 @@ CSS
 ● Use Flexbox (Optional)
 ● Use SASS/SCSS (Optional)
 ● Use animations (Optional)
-2JavaScript
+
+JavaScript
 ● External scripts
 ● Use variables, if statements, loops, at least one form of collections,
 functions/callbacks, and events.
