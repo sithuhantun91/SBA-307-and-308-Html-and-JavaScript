@@ -2,27 +2,27 @@
 
 # Technical Requirements:
 # HTML
-● Have at least 3 pages, keep the grid system consistent as much as possible
-● Use at least 10 different HTML tags
-● Use HTML tables
-● Implement at least two uses for forms
-● Dropped Down Menu
-● Use web fonts
-● Use different types of content in the form of text, images, videos, and GIFs
-● Use regex validation
+● Have at least 3 pages, keep the grid system consistent as much as possible<br>
+● Use at least 10 different HTML tags<br>
+● Use HTML tables<br>
+● Implement at least two uses for forms<br>
+● Dropped Down Menu<br>
+● Use web fonts<br>
+● Use different types of content in the form of text, images, videos, and GIFs<br>
+● Use regex validation<br>
 
 # CSS
-● Inline, internal, and external styling
-● Use five different CSS selectors
-● Don’t use too many fonts
-● Use colors that complement each other
-● Use Flexbox (Optional)
-● Use SASS/SCSS (Optional)
-● Use animations (Optional)
+● Inline, internal, and external styling<br>
+● Use five different CSS selectors<br>
+● Don’t use too many fonts<br>
+● Use colors that complement each other<br>
+● Use Flexbox (Optional)<br>
+● Use SASS/SCSS (Optional)<br>
+● Use animations (Optional)<br>
 
 # JavaScript
 ● External scripts
-● Use variables, if statements, loops, at least one form of collections, functions/callbacks, and events.
-● Use AJAX (Optional)
-● Use JSON or XML (Optional)
-● Use JQuery (Optional)
+● Use variables, if statements, loops, at least one form of collections, functions/callbacks, and events.<br>
+● Use AJAX (Optional)<br>
+● Use JSON or XML (Optional)<br>
+● Use JQuery (Optional)<br>
