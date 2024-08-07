@@ -26,3 +26,9 @@
 ● Use AJAX (Optional)<br>
 ● Use JSON or XML (Optional)<br>
 ● Use JQuery (Optional)<br>
+
+# References
+Bootstrap: https://getbootstrap.com/
+Photo: https://www.istockphoto.com/
+Video: https://www.pexels.com/
+Fonts: https://fonts.google.com/specimen/Raleway?query=Raleway
