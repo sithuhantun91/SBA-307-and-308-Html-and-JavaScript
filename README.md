@@ -28,7 +28,7 @@
 ● Use JQuery (Optional)<br>
 
 # References
-Bootstrap: https://getbootstrap.com/
-Photo: https://www.istockphoto.com/
-Video: https://www.pexels.com/
-Fonts: https://fonts.google.com/specimen/Raleway?query=Raleway
+Bootstrap: https://getbootstrap.com/ <br>
+Photo: https://www.istockphoto.com/ <br>
+Video: https://www.pexels.com/ <br>
+Fonts: https://fonts.google.com/specimen/Raleway?query=Raleway <br>
